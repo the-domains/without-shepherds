@@ -1,0 +1,28 @@
+name: Without Shepherds
+favicon: null
+layout_spectrum: 0.3297206482384354
+typography_spectrum: 0.3737926143221557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.144271056400612
+  lightness: 0.9655312770046294
+  saturation: 0.7998131178319454
+  rhythmicContrast: 0.7229146589525044
+purpose: []
